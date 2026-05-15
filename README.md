@@ -1,1 +1,3 @@
-"# Image-BG-Remover-App" 
+# Image BG Remover App
+
+### *Copy the code from app.py file and paste it to your Google Colab and run it.*
